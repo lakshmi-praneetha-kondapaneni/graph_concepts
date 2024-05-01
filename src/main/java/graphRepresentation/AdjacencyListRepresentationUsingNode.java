@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-public class AdjacencyListRepresentationUisngNode {
+public class AdjacencyListRepresentationUsingNode {
     static class Node{
         String name;
         ArrayList<String> nbrs;
